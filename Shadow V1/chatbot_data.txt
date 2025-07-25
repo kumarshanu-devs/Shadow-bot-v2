@@ -1,0 +1,4 @@
+hello: Hello! How can I help you today?
+what is your name: I am ChatBotX, your assistant.
+how are you: I'm just code, but thanks for asking!
+bye: Goodbye! Have a great day!
